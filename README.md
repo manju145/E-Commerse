@@ -20,7 +20,7 @@
 <h2>https://651732932e43b222d8393c52--effervescent-chebakia-c7433f.netlify.app/</h2>
 <h1>Tech Stack</h1>
 
-<h3>Client</h3> :   React, Redux, Material UI,  React Router Dom, payment,
+<h3>Client</h3> :   React, React Router Dom, payment,
 
 <h3>Server</h3> :  Node, Express, Mongoose, MongoDB,  Bcrypt JS ,Cors
 
