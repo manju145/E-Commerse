@@ -1,15 +1,15 @@
 MY FASHION
-Features
-Login / Signup with Mobile Number
+<h1>Features</h1>
+<p>Login / Signup with Mobile Number</p>
 
-Search Product
+<p>Search Product</p>
 
-One time Login
+<p>One time Login</p>
 
-Add to Cart
+<p>Add to Cart</p>
 
-Add / Remove item to Cart
+<p>Add / Remove item to Cart</p>
 
-Order Product
+<p>Order Product</p>
 
-Online Payment
+<p>Online Payment</p>
