@@ -14,6 +14,7 @@
 <p>Order Product</p>
 
 <p>Online Payment</p>
+<p>Admin Page</p>
 
 <h1>Live App</h1>
 <h2>https://651732932e43b222d8393c52--effervescent-chebakia-c7433f.netlify.app/</h2>
@@ -50,6 +51,22 @@
 <h1>Payment  </h1>
 
 ![image](https://github.com/manju145/E-Commerse/assets/110039298/9ab7d869-e1b0-4699-a155-190925b5bfdf)
+
+<h1>Admin Manage Category</h1>
+
+![image](https://github.com/manju145/E-Commerse/assets/110039298/5aeed06e-0f0f-4111-88b3-f79c2036e802)
+
+<h1>Admin Create Product</h1>
+
+![image](https://github.com/manju145/E-Commerse/assets/110039298/84ad3554-a2cb-4895-a9a2-40ab339cfc50)
+
+<h1>Admin All Products List</h1>
+
+![image](https://github.com/manju145/E-Commerse/assets/110039298/ecddec36-25b9-46d5-a7d1-5b93844cf4db)
+
+<h1>Admin All Orders</h1>
+
+![image](https://github.com/manju145/E-Commerse/assets/110039298/71ae5e72-d77a-4f14-834a-5dd0e4d184cf)
 
 
 <h1>Installation </h1>
